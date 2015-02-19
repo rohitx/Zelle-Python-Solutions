@@ -1,4 +1,8 @@
-# Zelle-Python-Solutions
+#### Selective Solutions to: ####
+
+##Python Programming An Introduction to Computer Science by Zelle##
+
+
 
 When learning Python, I found the book, **"Python Programming An Introduction to Computer Science"** to be the best book for self-study. However, during self-study I could not find solutions to Programming Questions. Therefore, I decided to include **solutions** to some of **Programming Questions**. 
 
